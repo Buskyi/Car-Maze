@@ -3,6 +3,9 @@
 学习Python后仿照网课教程做的小游戏项目
 
 ## 环境
+点击`.exe`文件可以直接玩
+
+如果要运行python程序需要下载对应环境
 
 需要的python包：`pygame`和`auto-py-to-exe`
 
